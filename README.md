@@ -30,3 +30,6 @@ npm run dev
 ## Deploy on Vercel
 
 Push the repository to GitHub, import it into Vercel, and add the Razorpay test keys in the Vercel project environment settings. The app will remain on test checkout until live keys are provided.
+
+Demo live link
+https://video-jaliu26gi-tharun27102006s-projects.vercel.app/
